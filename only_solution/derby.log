@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 21 00:15:32 CET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018e-5e25-fd51-00000402aab0 
+on database directory /Users/vivekreddyvari/Desktop/data-engineering-databricks/docker_repositories/abnamro/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5e0826e7 
+Loaded from file:/Users/vivekreddyvari/Desktop/data-engineering-databricks/docker_repositories/abnamro/credit-lending-product-env/lib/python3.12/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.2+13
+user.dir=/Users/vivekreddyvari/Desktop/data-engineering-databricks/docker_repositories/abnamro
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
