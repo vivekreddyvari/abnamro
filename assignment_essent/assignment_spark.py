@@ -3,7 +3,7 @@ from pyspark.sql.functions import *
 
 
 class CouncilsJob:
-
+    """ EnglandCouncils"""
     def __init__(self):
         self.spark_session = (SparkSession.builder
                               .master("local[*]")
@@ -60,7 +60,7 @@ class CouncilsJob:
 
         :param councils_df: 
         :param avg_price_df: 
-        :param sales_volume_df: 
+        :param sales_volume_df:
         :return: 
         """
         final_df = councils_df
